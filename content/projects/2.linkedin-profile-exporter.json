@@ -1,0 +1,7 @@
+{
+  "name": "Linkedin User Profile Exporter",
+  "url": "https://github.com/ankit031/linkedin-user-profile-exporter",
+  "description": "A simple browser extension to export your full LinkedIn profile as a JSON Resume file or string.",
+  "thumbnail": "/projects/upload.png",
+  "status": "Active"
+}

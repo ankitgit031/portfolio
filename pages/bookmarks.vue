@@ -30,7 +30,7 @@
 const description =
   "Awesome things I've found on the internet. This page is still WIP, I want to add search like bmrks.com";
 useSeoMeta({
-  title: "Bookmarks | Fayaz Ahmed",
+  title: "Bookmarks | Ankit Ranjan Sinha",
   description,
 });
 
@@ -85,26 +85,26 @@ const bookmarks = [
     label: "SVG Spinners",
     url: "https://github.com/n3r4zzurr0/svg-spinners",
   },
-  {
-    id: 11,
-    label: "ASCII Flow - Text based image drawing",
-    url: "https://asciiflow.com/#/",
-  },
-  {
-    id: 12,
-    label: "REQRES Mock apis for testing",
-    url: "https://reqres.in/",
-  },
+  // {
+  //   id: 11,
+  //   label: "ASCII Flow - Text based image drawing",
+  //   url: "https://asciiflow.com/#/",
+  // },
+  // {
+  //   id: 12,
+  //   label: "REQRES Mock apis for testing",
+  //   url: "https://reqres.in/",
+  // },
   {
     id: 13,
     label: "Haikie - SVG background generator",
     url: "https://app.haikei.app/",
   },
-  {
-    id: 14,
-    label: "IP API",
-    url: "https://ipapi.is/",
-  },
+  // {
+  //   id: 14,
+  //   label: "IP API",
+  //   url: "https://ipapi.is/",
+  // },
   {
     id: 15,
     label: "Rakko Tools",
